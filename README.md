@@ -2,8 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabhatdubey670)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on Frontend Development with React and its ecosystem 
-- 🌱 I’m currently learning MERN stack development 
+ - 🌱 I’m currently working in MERN stack development
+ - 😎 I solve problems in real life through code 
 - 🤔 I’m looking for help with code quality and real-life usability 
 - ⚡ Fun fact: I started with javascript as my first programming language 
 - 🤖 Building future 
