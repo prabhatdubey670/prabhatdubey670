@@ -2,11 +2,11 @@
 
 
 
- - 🌱 I’m currently working in Full-stack development
- - 😎 I solve problems in real life through code 
+ - 🌱 I’m currently working in Data Science
+ - 😎 I solve problems in real life through code and mathematics
 - 🤔 I’m looking for help with code quality and real-life usability 
-- ⚡ Fun fact: I started with javascript as my first programming language 
-- 🤖 Building future 
+- ⚡ Fun fact: I started with javascript as my first programming language , aslo learned fullstack development
+- 🤖 Analysing events
 - 👨‍💻 All of my projects are available at https://www.prabhatdubey.works
 
 <h3 align="left">Languages and Tools:</h3>
