@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with code quality and real-life usability 
 - ⚡ Fun fact: I started with javascript as my first programming language , aslo learned fullstack development
 - 🤖 Analysing events
-- 👨‍💻 All of my projects are available at https://www.prabhatdubey.works
+- 👨‍💻 I have passion in working for finance specially in securities market .
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
