@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I started with javascript as my first programming language , aslo learned fullstack development
 - 🤖 Analysing events
 - 👨‍💻 I have passion in working for finance specially in securities market .
+- ⌚ I contribute meaningfull , Though less in quantity here ! 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
