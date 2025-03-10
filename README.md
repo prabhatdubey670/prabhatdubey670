@@ -2,10 +2,10 @@
 
 
 
- - 🌱 I’m currently working in Data Science
+ - 🌱 I’m currently working as a fullstack developer
  - 😎 I solve problems in real life through code and mathematics
 - 🤔 I’m looking for help with code quality and real-life usability 
-- ⚡ Fun fact: I started with javascript as my first programming language , aslo learned fullstack development
+- ⚡ Fun fact: I started with javascript as my first programming language , and seeking to learn data science
 - 🤖 Analysing events
 - 👨‍💻 I have passion in working for finance specially in securities market .
 - ⌚ I contribute meaningful , Though less in quantity here ! 
